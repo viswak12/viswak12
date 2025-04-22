@@ -1,62 +1,65 @@
-Hi, I'm Viswak Sena P (aka Data's Favorite Child™)
+<h1 align="center">👋 Hey, I'm Viswak Sena P</h1>
+<h3 align="center">aka Data's Favorite Child™ — building order from chaos, one dataset at a time</h3>
 
-Welcome to my corner of GitHub where SQL flows like poetry, Python scripts run before coffee, and dashboards tell stories louder than charts should.
+---
 
-🎓 Recently minted with a Master’s in Computer Science (Data Science focus) from the University of North Texas. GPA? 3.81 — yes, I checked twice.
+## 🧠 About Me
 
-📊 By day, I’m a Senior Data Analyst with 4.5+ years of hands-on experience decoding messy datasets into real-world insights across healthcare, insurance, product, and finance. By night, I sometimes dream in pandas and dbt models.
+Welcome to my GitHub, where:
+- SQL flows like poetry 🧾  
+- Python scripts run before coffee ☕  
+- Dashboards whisper secrets to executives 🧠  
 
-🔍 I build:
+🎓 **Master’s in Computer Science** (Data Science focus) from University of North Texas — GPA 3.81 (yes, I triple-checked)  
+💼 **Senior Data Analyst** with 4.5+ years of experience across **healthcare, insurance, product analytics, and finance**  
 
-🔐 Real-time fraud detection systems (think: finding the sneaky ones in 2M+ insurance claims)
+By day, I tame messy data and build clean, useful things.  
+By night, I occasionally dream in `pandas`, `SQL`, and `dbt` models.
 
-📈 Behavioral analytics to decode user decisions (A/B tested and stakeholder approved)
+---
 
-📦 ETL pipelines and data models that actually work (Snowflake, SQL, Python, dbt)
+## 🛠️ My Toolkit
 
-🎨 Dashboards that whisper insights to execs (Power BI, Tableau, Looker)
+| 🧩 Languages | 🧪 ML/AI | 📊 Visualization | ☁️ Cloud & Big Data |
+|-------------|---------|------------------|---------------------|
+| Python, SQL, R, T-SQL | Scikit-learn, TensorFlow, PyTorch, XGBoost | Power BI, Tableau, Matplotlib, Seaborn | Snowflake, Spark, Hive, Airflow, AWS, Azure, dbt, Docker |
 
-💡 I believe data isn’t just numbers — it’s a story waiting to be translated, cleaned, transformed, and visualized… with just the right amount of weird.
+And yes, I occasionally talk to Excel. And argue with JIRA. We're on speaking terms.
 
-🔧 My Toolkit
+---
 
-Languages: Python, SQL, R, T-SQLData Viz: Power BI, Tableau, Matplotlib, SeabornML/AI: Scikit-learn, TensorFlow, PyTorch, XGBoostBig Data: Snowflake, Spark, Hive, AirflowCloud/DevOps: AWS, Azure, Docker, GitHub, dbt, JenkinsOther tools I argue with occasionally: Excel, Looker, JIRA, Figma, D3.js
+## 🚀 Projects That Turned Heads
 
-📂 Featured Projects
+### 🔍 **Fraud Detection in Health Claims**
+Built ML models on 2M+ claims to detect fraud in real-time. Result: 15% boost in detection accuracy and fewer headaches for investigators.
 
-🚨 Fraud Detection in Health ClaimsCracked open 2M+ insurance records to build ML models that increased fraud detection by 15%. Real-time dashboards included.
+### 🎬 **IMDb Rating & Recommendation System**
+Predicted movie ratings using Random Forest and K-Means. Recommender that might know you better than Netflix.
 
-[Power BI + Snowflake + dbt + Python]
+### 💸 **Crypto Trend Insights**
+Visualized years of market madness using D3.js, Tableau, and Python. Traders still say thanks.
 
-🎮 IMDb Movie Ratings & Recommendation SystemPredicted movie ratings and made personalized recs using Random Forest + K-Means. IMDb would be proud.
+### 🎓 **ScholarEase**
+A scholarship management system that made admins cry tears of joy. Smart workflows, eligibility logic, real-time reporting.
 
-[Jupyter Notebook + Python + Streamlit]
+### 📈 **User Growth & Revenue Forecasting**
+Built A/B frameworks and modeling pipelines that led to a 12% revenue bump. Coffee may have been involved.
 
-💸 Crypto Trend InsightsVisualized volatility and market cap chaos in the crypto world using D3.js, Tableau, and Altair. Traders still thanking me.
+### 📦 **Inventory Optimization**
+Regression + clustering = 98% accuracy and a lot of saved money. Spreadsheets were proud.
 
-[VizHub + Tableau + Python]
+### 🏥 **InsureSys Pro**
+End-to-end insurance claim system built with Django, SQL, and Power BI. Automated, auditable, and kind of beautiful.
 
-🎓 ScholarEaseBuilt a scholarship management platform that’s smarter than most bureaucracies.
+---
 
-[MySQL + Power BI + Flask]
+## 📬 Let’s Talk
 
-🌐 User Behavior & Growth AnalysisDesigned A/B test frameworks, ran behavioral segmentation, and found insights that led to a 12% revenue bump. Coffee may have been involved.
+📧 viswaksenapalaparthi@my.unt.edu  
+🔗 [LinkedIn](https://www.linkedin.com/in/viswaksena/)  
+🧙‍♂️ Also possibly available via SQL incantations
 
-[Tableau + Python + SQL]
+---
 
-📊 Inventory Optimization Analytics98% accuracy in regression models. Found the hidden bottlenecks. Saved inventory costs. Became everyone’s favorite data guy.
-
-[Power BI + Python + NumPy + Pandas]
-
-💼 InsureSys Pro — Insurance Management SystemETL meets UX meets fraud-prevention logic. Think Django, SQL, and rule-based automation all getting along.
-
-[Django + SQL + Power BI]
-
-📬 Wanna talk data, dashboards, or weird model bugs?
-
-Find me at:📧 viswaksenapalaparthi@my.unt.edu🔗 LinkedIn🧙‍♂️ Also possibly available via SQL incantations
-
-Yes, I write queries that rhyme, and no, I haven’t broken prod… this week.
-
-Now scroll, explore, and if a dashboard makes you smile — you know where to find me.
+> I write queries that rhyme. Dashboards that shine. And no, I haven’t broken prod… this week.
 
