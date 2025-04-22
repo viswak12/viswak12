@@ -55,7 +55,7 @@ End-to-end insurance claim system built with Django, SQL, and Power BI. Automate
 
 ## 📬 Let’s Talk
 
-📧 viswaksenapalaparthi@my.unt.edu  
+📧 viswak7123@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/viswaksena/)  
 🧙‍♂️ Also possibly available via SQL incantations
 
