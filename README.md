@@ -6,10 +6,14 @@
 ## 🧠 About Me
 
 Welcome to my GitHub, where:
-- SQL flows like poetry 🧾  
-- Python scripts run before coffee ☕  
-- Dashboards whisper secrets to executives 🧠  
-- And machine learning models quietly run the show 🎯  
+
+Machine learning models quietly run the show 🎯
+
+Python scripts automate everything but lunch ☕
+
+SQL flows like poetry (with the occasional JOIN tantrum) 🧾
+
+Dashboards whisper secrets to executives (and sometimes scream at them) 🧠
 
 🎓 **M.S. in Computer Science** (Data Science focus) – University of North Texas – GPA: 3.81  
 💼 **Data Scientist / Analyst Hybrid** with 4.5+ years of experience in **fraud analytics, product intelligence, healthcare, edtech, and fintech**  
