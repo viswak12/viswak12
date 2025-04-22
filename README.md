@@ -11,7 +11,7 @@ Welcome to my GitHub, where:
 - Dashboards whisper secrets to executives 🧠  
 
 🎓 **Master’s in Computer Science** (Data Science focus) from University of North Texas — GPA 3.81 (yes, I triple-checked)  
-💼 **Senior Data Analyst** with 4.5+ years of experience across **healthcare, insurance, product analytics, and finance**  
+💼 **DATA SCIENTIST** with 4.5+ years of experience across **healthcare, insurance, product analytics, and finance**  
 
 By day, I tame messy data and build clean, useful things.  
 By night, I occasionally dream in `pandas`, `SQL`, and `dbt` models.
