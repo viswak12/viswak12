@@ -22,15 +22,13 @@ By night: dream in `pandas`, `dbt`, and `JOIN` clauses
 
 ## 🛠️ My Toolkit
 
-| 📊 Data & Modeling | 🧠 Machine Learning | 📈 Analytics & Viz | ☁️ Cloud & Orchestration |
-|-------------------|---------------------|--------------------|--------------------------|
-| SQL (T-SQL, Snowflake SQL), Python, R | Scikit-learn, XGBoost, TensorFlow, Keras, Random Forest, Clustering | Power BI, Tableau, Matplotlib, Seaborn | Snowflake, Airflow, Azure, dbt, Docker, Git, Spark |
+| 📊 Data & Analytics | 🧠 Machine Learning & AI | ☁️ Cloud & Big Data | ⚙️ MLOps & Dev Tools |
+|---------------------|--------------------------|---------------------|----------------------|
+| Python, SQL, R, T-SQL, Java | Scikit-learn, TensorFlow, PyTorch, XGBoost, Transformers, GANs, BERT, LLMs, Agentic AI | AWS (S3, EC2, EMR, Glue, Redshift, Lambda), Azure (ML, SQL DB), Databricks | Git, GitHub, Docker, Jenkins, VS Code, Bash, Linux, Jira |
+| Data Wrangling, EDA, Feature Engineering | Model Lifecycle (Train, Tune, Evaluate, Deploy), Causal & Statistical Analysis | Snowflake, Apache Spark, Apache Airflow, Hive, MongoDB, Neo4j, BigQuery, Weaviate, Vector DBs | CI/CD Pipelines, PyTest, Hugging Face, MATLAB |
+| Tableau, Power BI, SAS Miner, Matplotlib, Seaborn, OpenRefine | Regression, Classification, Clustering, Predictive Modeling, Anomaly Detection | MapReduce, Azure Blob, dbt | Agile, Presentation, Communication, Teamwork |
 
-🎯 Also experienced with:  
-- **Model Evaluation** (AUC, precision/recall, F1-score, grid search tuning)  
-- **A/B Testing**, Lift Analysis, Experiment Frameworks  
-- **Data Pipelines**, Feature Engineering, Anomaly Detection  
-- **ML Lifecycle** from prototype → production-ready scoring logic  
+📜 **Certifications:** IBM Certified Data Scientist Professional
 
 ---
 
