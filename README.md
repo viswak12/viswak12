@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Viswak Sena P</h1>
+<h1 align="center"> Hey, I'm Viswak Sena P</h1>
 <h3 align="center">aka Data's Favorite Child™ — turning chaos into clarity with code, ML, and caffeine</h3>
 
 ---
